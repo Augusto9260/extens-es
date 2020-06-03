@@ -1,2 +1,2 @@
-# extens-es
+# extensões
 Extensões para google chrome 
