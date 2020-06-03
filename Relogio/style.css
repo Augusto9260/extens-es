@@ -1,0 +1,7 @@
+@charset 'utf-8';
+#style, body{
+	font-size: 20pt;
+	color: rgb(44, 255, 0, 255);
+	background: rgb(0, 0, 0, 255);
+	margin: 10px;
+}

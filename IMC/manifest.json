@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"version": "0.0.1",
+	"name": "IMC",
+	"description": "Calcule seu imc e veja se está no peso ideal.",
+	"author": "Augusto",
+	"browser_action": {
+		"default_title": "IMC",
+		"default_popup": "index.html",
+		"default_icon": "icon.png"
+	}
+
+}
