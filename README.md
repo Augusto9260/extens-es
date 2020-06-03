@@ -1,2 +1,2 @@
 # Extensões
-Extensões para google chrome 
+Extensões para google chrome utilizando JavaScript.
